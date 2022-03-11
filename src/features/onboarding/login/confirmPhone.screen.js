@@ -3,7 +3,7 @@ import {View, Text, TextInput} from 'react-native';
 import styles from './confirmPhone.styles';
 import Header from './components/header';
 
-class confirmPhone extends React.Component {
+class ConfirmPhone extends React.Component {
   openPreviousLanding = () => {
     this.props.navigation.navigate('loginPhone');
   };
