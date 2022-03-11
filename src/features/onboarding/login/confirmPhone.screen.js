@@ -32,4 +32,4 @@ class ConfirmPhone extends React.Component {
   }
 }
 
-export default confirmPhone;
+export default ConfirmPhone;
